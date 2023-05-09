@@ -1,4 +1,4 @@
-# workshop-01
+# Ejercicio
 Nombre: Cristian Jimenez
 Anime: Dragon Ball Z 
 Marvel
